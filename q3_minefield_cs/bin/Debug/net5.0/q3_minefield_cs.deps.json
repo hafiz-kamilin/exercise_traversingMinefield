@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "q3_minefield_cs/1.0.0": {
+        "runtime": {
+          "q3_minefield_cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "q3_minefield_cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
