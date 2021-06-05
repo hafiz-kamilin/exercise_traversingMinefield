@@ -10,5 +10,5 @@ Programming exercise in traversing the minefield.
 
 ## Answer
 
-1. Python [source code](https://github.com/hafiz-kamilin/exercise_traversingMinefield/blob/main/q3_minefield_py/q3_minefield.py) (interpreter version 3.7.10).
-2. C# [source code](https://github.com/hafiz-kamilin/exercise_traversingMinefield/blob/main/q3_minefield_cs/Program.cs) (interpreter version net5.0).
+1. Python [source code](https://github.com/hafiz-kamilin/exercise_traversingMinefield/blob/main/q3_minefield_py/q3_minefield.py) (Anaconda Python interpreter version 3.7.10).
+2. C# [source code](https://github.com/hafiz-kamilin/exercise_traversingMinefield/blob/main/q3_minefield_cs/Program.cs) (Microsoft.NET.Sdk interpreter version net5.0).
