@@ -63,8 +63,8 @@ namespace q3_minefield_cs
                     while (true)
                     {
                         /*
-                            NOTE: because we want to traverse from north to south, we ommited the movement from
-                            north-east, north and north-west 
+                            NOTE: because we want to traverse from south to north, we ommited the movement to
+                            south-east, south and south-west 
 
                               --  x-  +-      ↖  ↑  ↗
                               -y  xy  +y      ←      → 
